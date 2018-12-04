@@ -1,0 +1,10 @@
+.gradientContainer{
+  display:flex;
+  align-items: center;
+  border-radius: 999px;
+  height: 40px;
+  border: 2px solid #11D1A6;
+  /* border-bottom: 6px solid transparent;
+  border-image: Linear-Gradient(#11D1A6 0%, #0B6EDE 100%); */
+  padding: 12px 25px;
+}

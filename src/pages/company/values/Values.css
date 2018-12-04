@@ -1,0 +1,19 @@
+
+.valuesContainer{
+  display:grid;
+  justify-content: center;
+  grid-template-columns: repeat(2, 351px);
+  grid-column-gap: 218px;
+  grid-row-gap: 80px;
+  margin-left:auto;
+  margin-bottom: 80px;
+}
+
+.vector{
+  margin-top:103px;
+  margin-bottom: 173px;
+  margin-left:38%;
+}
+
+
+

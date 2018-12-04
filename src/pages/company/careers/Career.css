@@ -1,0 +1,46 @@
+.careerContainer{
+  display: grid;
+  grid-template-columns: 342px 702px;
+  padding-top:50px;
+  padding-bottom:50px;
+  padding-left:170px; 
+  padding-right:169px;
+}
+.careerContainer:nth-child(odd){
+  background: #eee;
+}
+
+.descriptionBox>*{
+  color: #555555;
+}
+
+.departmentTitle{
+  margin-bottom:20px;
+}
+
+.jobLink {
+  margin-left:37px;
+  margin-bottom:20px;
+  padding-top:1em;
+  display: flex;
+  align-items: center;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+}
+
+.slash{
+  margin: 0 1em;
+}
+
+.jobLink>*{
+  color: #555555;
+}
+
+.careerVector{
+  margin-right:20px;
+}
+
+.arrow{
+  margin-left:60px;
+  color: #555555
+}

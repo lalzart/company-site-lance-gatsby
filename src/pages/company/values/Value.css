@@ -1,0 +1,45 @@
+.valueTitle{
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #555555;
+  margin-bottom:20px;
+}
+
+.line{
+  display: inline-block;
+  border-bottom: 1px solid #555555;
+  width: 43%;
+
+}
+.numRow{
+  text-align: center;
+}
+.valueNumber{
+  display: inline-block;
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 24px;
+  margin:0 10px;
+  text-align: center;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #FBAA1D;
+}
+
+.valueDescription{
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 16px;
+  color: #555555;
+  margin-top:40px;
+}

@@ -1,0 +1,30 @@
+.titleBar{
+  text-align: center;
+  margin:0 auto 80px auto;
+}
+.zenport{
+  display: inline;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #0B6EDE;
+}
+
+.discription{
+  display: inline;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 36px;
+  margin-left:12px;
+  text-align: center;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #AAAAAA;
+}

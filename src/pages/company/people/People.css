@@ -1,0 +1,88 @@
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  margin: 0 30px;
+}
+.flexRow{
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
+}
+
+.flexCenter{
+  margin-top:150px;
+}
+.large{
+  height:300px;
+  width: 300px;
+}
+
+.medium{
+  justify-self: flex-start;
+  height:250px;
+  width:250px;
+  background: #AAAAAA;
+}
+
+.small{ 
+  height:200px;
+  width:200px;
+}
+
+.personSmall{
+  align-self: flex-end;
+}
+
+.person{
+  margin-bottom: 60px;
+}
+
+.person img{
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.name{
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 24px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #555555;
+}
+
+.role{
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 18px;
+  color: #AAAAAA;
+}
+
+.toshi{
+  position: relative;
+}
+
+.toshiInfo{
+  height: 100%;
+  widows: 100%;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 16px;
+  color: #555555;
+  background: #FFFFFF;
+  opacity: 0.9;
+  border-radius: 10px;
+  position: absolute;
+  top:0;
+  bottom:0;
+  right:0;
+  left:0;
+  padding:180px 30px 30px 30px;
+}
