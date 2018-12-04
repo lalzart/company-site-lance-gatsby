@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Company from '../pages/company/index'
+import Company from '../components/company'
 import Layout from '../layout'
 
 const IndexPage = () => (
