@@ -2,6 +2,8 @@
   display:flex;
   width:70%;
   margin:auto;
+  margin-bottom:99px;
+  margin-top:50px;
 }
 
 .recruitPhrase{
@@ -9,14 +11,6 @@
   letter-spacing: 0.1em;
   color: #AAAAAA;
   margin-right:1em;
-}
-
-.recruitLink{
-
-}
-
-.recruitIcon{
-
 }
 
 .recruitSlash{
