@@ -1,0 +1,31 @@
+.recruitContainer{
+  display:flex;
+  width:70%;
+  margin:auto;
+}
+
+.recruitPhrase{
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  color: #AAAAAA;
+  margin-right:1em;
+}
+
+.recruitLink{
+
+}
+
+.recruitIcon{
+
+}
+
+.recruitSlash{
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  color: #AAAAAA;
+  margin:0 1em;
+}
+
+.wantedly{
+  margin-top:6px;
+}
